@@ -1,0 +1,328 @@
+test.php可被執行
+python3 -v 也可被執行USER PID %CPU %MEM VSZ RSS TTY STAT START TIME COMMAND
+root 1 0.2 0.2 25324 5148 ? Ss 14:34 0:23 /sbin/init
+root 2 0.0 0.0 0 0 ? S 14:34 0:00 [kthreadd]
+root 3 0.0 0.0 0 0 ? S 14:34 0:00 [ksoftirqd/0]
+root 5 0.0 0.0 0 0 ? S< 14:34 0:00 [kworker/0:0H]
+root 7 0.1 0.0 0 0 ? S 14:34 0:08 [rcu_preempt]
+root 8 0.0 0.0 0 0 ? S 14:34 0:00 [rcu_sched]
+root 9 0.0 0.0 0 0 ? S 14:34 0:00 [rcu_bh]
+root 10 0.0 0.0 0 0 ? S 14:34 0:00 [migration/0]
+root 11 0.0 0.0 0 0 ? S 14:34 0:00 [watchdog/0]
+root 12 0.0 0.0 0 0 ? S 14:34 0:00 [watchdog/1]
+root 13 0.0 0.0 0 0 ? S 14:34 0:00 [migration/1]
+root 14 0.0 0.0 0 0 ? S 14:34 0:00 [ksoftirqd/1]
+root 16 0.0 0.0 0 0 ? S< 14:34 0:00 [kworker/1:0H]
+root 17 0.0 0.0 0 0 ? S 14:34 0:00 [kdevtmpfs]
+root 18 0.0 0.0 0 0 ? S< 14:34 0:00 [netns]
+root 21 0.0 0.0 0 0 ? S< 14:34 0:00 [perf]
+root 204 0.0 0.0 0 0 ? S 14:34 0:00 [khungtaskd]
+root 205 0.0 0.0 0 0 ? S< 14:34 0:00 [writeback]
+root 207 0.0 0.0 0 0 ? SN 14:34 0:00 [ksmd]
+root 209 0.0 0.0 0 0 ? S< 14:34 0:00 [crypto]
+root 210 0.0 0.0 0 0 ? S< 14:34 0:00 [kintegrityd]
+root 211 0.0 0.0 0 0 ? S< 14:34 0:00 [bioset]
+root 213 0.0 0.0 0 0 ? S< 14:34 0:00 [kblockd]
+root 384 0.0 0.0 0 0 ? S< 14:34 0:00 [ata_sff]
+root 395 0.0 0.0 0 0 ? S< 14:34 0:00 [md]
+root 540 0.0 0.0 0 0 ? S< 14:34 0:00 [rpciod]
+root 621 0.0 0.0 0 0 ? S< 14:34 0:05 [kswapd0]
+root 628 0.0 0.0 0 0 ? S< 14:34 0:00 [vmstat]
+root 632 0.0 0.0 0 0 ? S 14:34 0:00 [fsnotify_mark]
+root 644 0.0 0.0 0 0 ? S< 14:34 0:00 [nfsiod]
+root 1664 0.0 0.0 0 0 ? S 16:05 0:00 [kworker/u8:1]
+root 1769 0.0 0.0 0 0 ? S 16:06 0:00 [kworker/0:0]
+http 2050 0.0 1.4 425324 27896 ? S 16:09 0:00 php-fpm: pool www
+http 2143 0.0 1.2 427372 23488 ? S 16:10 0:00 php-fpm: pool www
+http 2145 0.0 1.4 425128 26256 ? S 16:10 0:00 php-fpm: pool www
+root 2603 0.0 0.0 0 0 ? S 16:15 0:00 [kworker/u8:0]
+root 2781 0.0 0.0 0 0 ? S< 14:34 0:00 [bioset]
+root 2782 0.0 0.0 0 0 ? S< 14:34 0:00 [bioset]
+root 2783 0.0 0.0 0 0 ? S< 14:34 0:00 [bioset]
+root 2784 0.0 0.0 0 0 ? S< 14:34 0:00 [bioset]
+root 2785 0.0 0.0 0 0 ? S< 14:34 0:00 [bioset]
+root 2786 0.0 0.0 0 0 ? S< 14:34 0:00 [bioset]
+root 2787 0.0 0.0 0 0 ? S< 14:34 0:00 [bioset]
+root 2788 0.0 0.0 0 0 ? S< 14:34 0:00 [bioset]
+root 2789 0.0 0.0 0 0 ? S< 14:34 0:00 [bioset]
+root 2790 0.0 0.0 0 0 ? S< 14:34 0:00 [bioset]
+root 2791 0.0 0.0 0 0 ? S< 14:34 0:00 [bioset]
+root 2792 0.0 0.0 0 0 ? S< 14:34 0:00 [bioset]
+root 2793 0.0 0.0 0 0 ? S< 14:34 0:00 [bioset]
+root 2794 0.0 0.0 0 0 ? S< 14:34 0:00 [bioset]
+root 2795 0.0 0.0 0 0 ? S< 14:34 0:00 [bioset]
+root 2796 0.0 0.0 0 0 ? S< 14:34 0:00 [bioset]
+root 3208 0.0 0.0 0 0 ? S< 14:34 0:00 [iscsi_eh]
+root 3219 0.0 0.0 0 0 ? S< 14:34 0:00 [nvme]
+root 3258 0.0 0.0 0 0 ? S 14:34 0:00 [scsi_eh_0]
+root 3260 0.0 0.0 0 0 ? S< 14:34 0:00 [scsi_tmf_0]
+root 3268 0.0 0.0 0 0 ? S 14:34 0:00 [scsi_eh_1]
+root 3272 0.0 0.0 0 0 ? S< 14:34 0:00 [scsi_tmf_1]
+root 3297 0.0 0.0 0 0 ? S< 14:35 0:00 [bioset]
+root 3368 0.0 0.0 0 0 ? S< 14:35 0:00 [kworker/1:1H]
+root 3369 0.0 0.0 0 0 ? S< 14:35 0:00 [bioset]
+root 3380 0.0 0.0 0 0 ? S 14:35 0:00 [scsi_eh_2]
+root 3381 0.0 0.0 0 0 ? S< 14:35 0:00 [scsi_tmf_2]
+root 3574 0.0 0.0 0 0 ? S< 14:35 0:00 [raid5wq]
+root 3615 0.0 0.0 0 0 ? S< 14:35 0:00 [deferwq]
+root 3905 0.0 0.0 0 0 ? S< 14:35 0:00 [bioset]
+root 3922 0.0 0.0 0 0 ? S< 14:35 0:00 [kworker/0:1H]
+root 3924 0.0 0.0 0 0 ? S< 14:35 0:00 [bioset]
+root 3925 0.0 0.0 0 0 ? S 14:35 0:00 [md0_raid1]
+root 3935 0.0 0.0 0 0 ? S< 14:35 0:00 [bioset]
+root 3950 0.0 0.0 0 0 ? S< 14:35 0:00 [bioset]
+root 3953 0.0 0.0 0 0 ? S 14:35 0:00 [md1_raid1]
+root 4132 0.0 0.0 0 0 ? S< 14:35 0:00 [ext4-group-desc]
+root 4133 0.0 0.0 0 0 ? S 14:35 0:00 [jbd2/md0-8]
+root 4134 0.0 0.0 0 0 ? S< 14:35 0:00 [ext4-rsv-conver]
+root 4177 0.0 0.1 17292 2068 ? Ss 14:35 0:00 /usr/bin/cgmanager --sigstop
+root 4221 0.0 0.0 4252 132 ? SLs 14:35 0:00 /bin/vmtouch -l /usr/syno/bin/synoschedtask /usr/syno/bin/synoschedtool /usr/syno/etc/scheduled_tasks
+system 4257 0.2 0.3 1092276 6876 ? Ssl 14:35 0:19 /usr/bin/syslog-ng -F --worker-threads=2 -u system -g log
+root 4523 0.0 0.0 0 0 ? S< 14:35 0:00 [bioset]
+root 4526 0.0 0.0 0 0 ? S< 14:35 0:00 [bioset]
+root 4727 0.0 0.0 0 0 ? S< 14:35 0:00 [ipv6_addrconf]
+root 4906 0.0 0.2 81688 4148 ? SNs 14:35 0:00 /usr/syno/bin/synologrotated
+root 4908 0.0 0.3 76160 7484 ? Ss 14:35 0:00 /usr/syno/sbin/synologaccd -f
+root 4924 0.0 0.0 12780 1640 ? Ss 14:35 0:00 /usr/sbin/irqbalance
+root 4926 0.0 0.0 13140 1840 ? Ss 14:35 0:00 /sbin/dbus-daemon --session --fork --print-address
+root 4934 0.0 0.1 13140 2228 ? Ss 14:35 0:00 /sbin/dbus-daemon --system --nopidfile
+root 4970 0.0 0.0 0 0 ? S< 14:35 0:00 [dm_bufio_cache]
+root 4972 0.0 0.0 0 0 ? S 16:28 0:00 [kworker/0:1]
+root 4991 0.0 0.4 328220 9244 ? Ssl 14:35 0:00 /usr/syno/sbin/synoconfd -D
+root 5019 0.0 0.2 313608 3856 ? Ssl 14:35 0:00 /usr/syno/sbin/synonetd
+root 5154 0.0 0.0 0 0 ? S 14:35 0:00 [ecryptfs-kthrea]
+root 5227 0.0 0.0 0 0 ? S 16:29 0:00 [kworker/u8:5]
+root 5437 0.0 0.8 215116 16372 ? Ss 16:30 0:00 sshd: admin [priv]
+root 5458 0.0 0.2 215116 4420 ? S 16:30 0:00 sshd: admin@pts/22
+admin 5459 0.0 0.2 26160 3756 pts/22 Ss+ 16:30 0:00 -sh
+root 5483 0.0 0.0 0 0 ? S< 14:35 0:00 [kworker/u9:0]
+root 5485 0.0 0.0 0 0 ? S 14:35 0:00 [i915/signal:0]
+root 5486 0.0 0.0 0 0 ? S 14:35 0:00 [i915/signal:1]
+root 5487 0.0 0.0 0 0 ? S 14:35 0:00 [i915/signal:2]
+root 5488 0.0 0.0 0 0 ? S 14:35 0:00 [i915/signal:4]
+root 5495 0.0 0.1 17872 1896 ? Ss 14:35 0:00 udevd --daemon
+root 5544 0.0 0.0 0 0 ? S< 14:35 0:00 [bioset]
+root 6539 0.0 0.0 0 0 ? S 16:34 0:00 [kworker/u8:2]
+root 6976 0.0 0.0 0 0 ? S< 14:35 0:00 [bioset]
+root 6986 0.0 0.0 0 0 ? S< 14:35 0:00 [bioset]
+root 6987 0.0 0.0 0 0 ? S 14:35 0:00 [md2_raid1]
+root 7146 0.0 0.0 0 0 ? S< 14:35 0:00 [kdmflush]
+root 7149 0.0 0.0 0 0 ? S< 14:35 0:00 [bioset]
+root 7565 0.0 0.4 132196 7808 ? Ss 14:35 0:00 /usr/syno/sbin/ddnsd
+root 7571 0.0 0.5 264976 9580 ? Sroot 7602 0.0 0.4 129800 8172 ? Ss 14:35 0:00 /usr/syno/sbin/heartbeatd
+ntp 7615 0.0 0.1 96172 3728 ? Ssl 14:35 0:00 /usr/sbin/ntpd -p /var/run/ntpd.pid -g -u ntp:ntp
+root 7616 0.0 0.1 229248 3240 ? Sroot 7631 0.0 0.0 4204 60 ? Ss 14:35 0:00 /usr/bin/minissdpd -i eth0
+root 8240 0.0 0.0 0 0 ? S 16:38 0:00 [kworker/1:2]
+root 8733 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-worker]
+root 8734 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-worker-hi]
+root 8735 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-delalloc]
+root 8736 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-flush_del]
+root 8737 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-flush_met]
+root 8738 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-cache]
+root 8739 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-submit]
+root 8740 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-fixup]
+root 8741 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-endio]
+root 8742 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-endio-met]
+root 8744 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-endio-met]
+root 8745 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-endio-rai]
+root 8746 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-endio-rep]
+root 8747 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-rmw]
+root 8748 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-endio-wri]
+root 8749 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-freespace]
+root 8750 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-delayed-m]
+root 8751 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-readahead]
+root 8753 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-qgroup-re]
+root 8754 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-usrquota-]
+root 8755 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-extent-re]
+root 8756 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-syno_noco]
+root 8757 0.0 0.0 0 0 ? S< 14:36 0:00 [btrfs-syno_high]
+root 8762 0.0 0.0 0 0 ? S 14:36 0:00 [btrfs-cleaner]
+root 8763 0.0 0.0 0 0 ? S 14:36 0:01 [btrfs-transacti]
+root 8805 0.1 0.7 268160 13212 ? Ss 14:36 0:14 /usr/bin/snmpd -fLn -c /etc/snmp/snmpd.conf -p /var/run/snmpd.pid 127.0.0.1:161
+root 8850 0.0 0.5 297576 10636 ? Ssl 14:36 0:00 /usr/syno/sbin/synologand
+root 8855 0.0 0.4 158036 8548 ? Sroot 8856 0.0 0.2 119520 4520 ? Ss 14:36 0:00 /usr/syno/sbin/synocrond
+root 8944 0.0 0.0 149904 1768 ? Ss 14:36 0:00 synostoraged
+root 8955 0.0 0.1 149904 2940 ? S 14:36 0:00 /usr/syno/sbin/synostoraged
+root 8957 0.0 0.3 149904 6024 ? S 14:36 0:01 /usr/syno/sbin/synostoraged
+root 9114 0.0 0.3 173652 6700 ? Ss 14:36 0:00 /usr/syno/bin/s2s_daemon -d
+root 9298 0.0 0.0 0 0 ? S 14:36 0:00 [RODSP_ODX_LOGIN]
+root 9299 0.0 0.0 0 0 ? S 14:36 0:00 [RODSP_VLUN_LOGI]
+root 9300 0.0 0.0 0 0 ? S 14:36 0:00 [RODSP_VDISK_LOG]
+root 9322 0.0 0.0 0 0 ? S 14:36 0:00 [scsi_eh_3]
+root 9323 0.0 0.0 0 0 ? S< 14:36 0:00 [scsi_tmf_3]
+root 9324 0.0 0.0 0 0 ? S 14:36 0:00 [usb-storage]
+root 9387 0.0 0.5 295176 10184 ? SNsl 14:36 0:00 /usr/syno/bin/iscsi_snapshot_comm_core -D
+root 9389 0.0 0.4 191452 8968 ? Ssl 14:36 0:00 /usr/syno/bin/scsi_plugin_server
+root 9392 0.0 0.5 147716 10204 ? SNs 14:36 0:00 /usr/syno/bin/iscsi_snapshot_server -D
+root 9646 0.0 0.0 0 0 ? S 14:36 0:00 [Syno_HDDMon]
+root 9720 0.0 0.0 0 0 ? S< 14:36 0:00 [bioset]
+root 9748 0.0 0.1 6572 3364 ? SLs 14:36 0:00 /usr/bin/vmtouch -lfd /var/run
+root 9759 0.0 0.0 8600 1536 ttyS2 Ss+ 14:36 0:00 /sbin/getty 115200 console
+root 10046 0.0 0.2 73316 4988 ? Ss 14:36 0:00 /usr/syno/bin/synobackupd
+root 10070 0.0 0.1 68904 2844 ? SNs 14:36 0:00 /usr/syno/sbin/synomkthumbd
+root 10071 0.0 0.1 68892 2864 ? SNs 14:36 0:00 /usr/syno/sbin/synomkflvd
+root 10076 0.0 0.2 99664 4492 ? Ssl 14:36 0:01 /usr/syno/sbin/synotifyd
+root 10092 0.0 0.4 268244 7940 ? Sroot 10214 0.0 0.3 154092 5748 ? Ss 14:36 0:01 /usr/syno/sbin/hotplugd
+root 10217 0.0 0.2 176536 5412 ? S 14:36 0:00 /usr/bin/netatalk
+root 10274 0.0 0.4 238352 9060 ? S 14:36 0:00 /usr/bin/afpd -d -F /etc/afp.conf
+root 10275 0.0 0.4 152632 8884 ? S 14:36 0:00 /usr/bin/cnid_metad -d -F /etc/afp.conf
+root 10304 0.0 0.1 227208 2804 ? Ss 14:36 0:00 /usr/bin/ftpd -DP
+root 10584 0.0 0.1 589960 3196 ? Ss 16:44 0:00 synoscgi --mode=apid --conf=/var/packages/SynologyDrive/target/etc/synoapid.json
+root 10603 0.0 0.5 426840 9612 ? Ss 14:36 0:00 /usr/bin/smbd -F
+root 10681 0.0 0.0 0 0 ? S< 14:36 0:00 [bioset]
+root 10682 0.0 0.0 0 0 ? S< 14:36 0:00 [bioset]
+root 10690 0.0 0.0 0 0 ? S< 14:36 0:00 [bioset]
+root 10692 0.0 0.0 0 0 ? S< 14:36 0:00 [bioset]
+root 10695 0.0 0.0 0 0 ? S< 14:36 0:00 [bioset]
+root 10698 0.0 0.0 0 0 ? S< 14:36 0:00 [bioset]
+root 10700 0.0 0.0 0 0 ? S< 14:36 0:00 [bioset]
+root 10702 0.0 0.0 0 0 ? S< 14:36 0:00 [bioset]
+root 10799 0.0 0.0 0 0 ? S< 14:36 0:00 [cifsiod]
+root 10802 0.0 0.0 0 0 ? S< 14:36 0:00 [cifsoplockd]
+system 10885 0.0 0.1 264976 2152 ? S 16:45 0:00 synoscgi
+root 10979 0.0 0.0 426820 1404 ? S 14:36 0:00 /usr/bin/smbd -F
+root 10980 0.0 0.0 426812 1192 ? S 14:36 0:00 /usr/bin/smbd -F
+root 10989 0.0 0.0 426844 1476 ? S 14:36 0:00 /usr/bin/smbd -F
+root 10990 0.0 0.0 426844 828 ? S 14:36 0:00 /usr/bin/smbd -F
+root 10992 0.0 0.0 426844 840 ? S 14:36 0:00 /usr/bin/smbd -F
+root 10993 0.0 0.0 426844 876 ? S 14:36 0:00 /usr/bin/smbd -F
+root 10994 0.0 0.0 426844 876 ? S 14:36 0:00 /usr/bin/smbd -F
+root 10995 0.0 0.0 426844 876 ? S 14:36 0:00 /usr/bin/smbd -F
+postgres 11107 0.0 0.1 277600 2344 ? Ss 14:36 0:00 /usr/bin/postgres -D /var/services/pgsql
+root 11166 0.0 0.1 33700 3440 ? Spostgres 11199 0.0 0.0 277744 40 ? Ss 14:36 0:00 postgres: checkpointer process
+postgres 11200 0.0 0.0 277744 1444 ? Ss 14:36 0:00 postgres: writer process
+postgres 11201 0.0 0.0 277744 1140 ? Ss 14:36 0:00 postgres: wal writer process
+root 11284 0.0 0.1 68884 2864 ? SNs 14:36 0:00 /usr/syno/sbin/synoindexd
+root 11369 0.0 0.0 0 0 ? S 16:46 0:00 [kworker/0:2]
+root 11515 0.0 0.3 143536 5964 ? Ss 14:36 0:00 /usr/syno/bin/synodisklatencyd
+root 11529 0.2 0.4 752508 7692 ? Ssl 14:36 0:16 /usr/syno/bin/scemd
+root 11583 0.0 0.0 7236 1560 ? Ss 14:36 0:00 /usr/sbin/crond
+root 11747 0.5 0.6 279400 12204 ? SLl 14:36 0:46 /usr/syno/sbin/synorelayd
+root 11914 0.0 0.6 429824 11284 ? Ss 14:36 0:00 php-fpm: master process (/var/packages/WebStation/target/misc/php73_fpm.conf)
+root 12019 0.0 0.0 0 0 ? S 16:48 0:00 [kworker/u8:3]
+root 12088 0.0 0.0 0 0 ? S 16:48 0:00 [kworker/1:0]
+root 12192 0.0 0.0 0 0 ? S 16:49 0:00 [kworker/0:3]
+root 12730 0.0 0.2 72416 4776 ? Ss 14:36 0:00 php-fpm: master process (/var/packages/PHP5.6/target/usr/local/etc/php56/php-fpm.conf)
+root 12940 0.0 0.0 0 0 ? Z
+root 12960 0.0 0.4 369796 9044 ? Ss 14:36 0:00 php-fpm: master process (/var/packages/WebStation/target/misc/php56_fpm.conf)
+root 12992 0.0 0.5 276672 9428 ? Ss 14:36 0:00 php-fpm: master process (/var/packages/PHP7.0/target/usr/local/etc/php70/php-fpm.conf)
+root 13068 0.0 0.3 265112 7088 ? Ssystem 13074 0.0 0.1 264976 2152 ? S 16:51 0:00 synoscgi
+system 13075 0.0 0.1 264976 2152 ? S 16:51 0:00 synoscgi
+root 13077 3.0 0.7 331064 14360 ? S 16:51 0:00 synoscgi_SYNO.Core.System.Utilization_1_get
+root 13078 0.0 0.1 589960 3164 ? Ss 16:51 0:00 synoscgi --mode=apid --conf=/var/packages/SynologyDrive/target/etc/synoapid.json
+http 13082 0.0 0.1 13636 2176 ? R 16:51 0:00 ps -auxww
+PhotoSt+ 13084 0.0 0.1 276672 2412 ? S 14:36 0:00 php-fpm: pool PhotoStation
+PhotoSt+ 13086 0.0 0.1 276672 2408 ? S 14:36 0:00 php-fpm: pool PhotoStation
+root 13103 0.0 0.5 360452 10816 ? Ss 14:36 0:00 php-fpm: master process (/var/packages/WebStation/target/misc/php70_fpm.conf)
+root 13156 0.0 0.1 49312 1896 ? Ss 14:36 0:00 /var/packages/PhotoStation/target/sbin/synophototaskd
+root 13377 0.0 0.3 623440 6684 ? Ssl 14:36 0:00 /var/packages/LogCenter/target/usr/bin/syslog-ng --cfgfile=/var/packages/LogCenter/target/etc/syslog-ng/syslog-ng.conf -F --worker-threads=2
+root 13616 0.0 0.2 68904 5028 ? SN 14:36 0:00 /usr/syno/sbin/synoindexscand
+root 13617 0.0 0.2 68884 5360 ? SN 14:36 0:00 /usr/syno/sbin/synoindexworkerd
+root 13622 0.0 0.5 322824 10512 ? SN 14:36 0:00 /usr/syno/sbin/synoindexplugind
+root 13623 0.0 0.2 117112 5460 ? SN 14:36 0:00 /usr/syno/sbin/synomediaparserd
+root 13836 0.0 0.2 302952 3756 ? Ss 14:36 0:00 /var/packages/WebDAVServer/target/usr/bin/httpd -DSSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav
+root 13860 0.0 0.0 299968 1588 ? S 14:36 0:00 /var/packages/WebDAVServer/target/usr/bin/httpd -DSSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav
+root 13898 0.0 0.0 393076 1584 ? Sl 14:36 0:00 /var/packages/WebDAVServer/target/usr/bin/httpd -DSSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav
+root 13905 0.0 0.0 393076 1584 ? Sl 14:36 0:00 /var/packages/WebDAVServer/target/usr/bin/httpd -DSSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav
+root 14131 0.0 0.0 11992 1592 ? S 14:36 0:00 /bin/sh /usr/local/mariadb10/bin/mysqld_safe --datadir=/var/packages/MariaDB10/target/mysql --pid-file=/run/mysqld/mysqld10.pid
+mysql 14434 0.0 2.3 1516716 44840 ? Sl 14:36 0:05 /usr/local/mariadb10/bin/mysqld --basedir=/usr/local/mariadb10 --datadir=/var/packages/MariaDB10/target/mysql --plugin-dir=/usr/local/mariadb10/lib/mysql/plugin --user=mysql --log-error=/var/packages/MariaDB10/target/mysql/DiskStaion.err --pid-file=/run/mysqld/mysqld10.pid --socket=/run/mysqld/mysqld10.sock --port=3307
+http 14772 0.0 0.0 14976 1680 ? Ss 14:36 0:00 /var/packages/WebStation/target/usr/bin/multiwatch -f 2 -- /var/packages/WebStation/target/usr/bin/fcgiwrap
+http 14780 0.0 0.0 8436 212 ? S 14:36 0:00 /var/packages/WebStation/target/usr/bin/fcgiwrap
+http 14781 0.0 0.0 8436 184 ? S 14:36 0:00 /var/packages/WebStation/target/usr/bin/fcgiwrap
+root 14960 0.0 0.0 0 0 ? S< 14:36 0:00 [kworker/u9:1]
+root 15565 0.0 0.3 877672 6648 ? Ssl 14:36 0:00 /var/packages/MediaServer/target/sbin/dms
+MediaSe+ 15970 0.0 0.3 272652 5696 ? S 14:36 0:00 /var/packages/MediaServer/target/sbin/lighttpd -f /var/packages/MediaServer/target/etc/lighttpd.conf -m /var/packages/MediaServer/target/lib/lighttpd
+root 16144 0.1 0.8 842508 16072 ? Ssl 14:36 0:11 /var/packages/Docker/target/usr/bin/dockerd --config-file /var/packages/Docker/etc/dockerd.json
+root 16294 0.0 0.1 517532 3392 ? Ssl 14:36 0:00 /var/packages/FileStation/target/sbin/thumbd
+root 16301 0.0 0.0 443800 1076 ? Ss 14:36 0:00 /var/packages/FileStation/target/sbin/thumbd
+root 16303 0.0 0.0 443800 1080 ? Ss 14:36 0:00 /var/packages/FileStation/target/sbin/thumbd
+root 16423 0.1 0.4 518504 8400 ? Ssl 14:36 0:08 containerd --config /var/run/docker/containerd/containerd.toml --log-level info
+root 16442 0.0 0.2 105860 5508 ? Ss 14:36 0:00 /var/packages/Apache2.2/target/usr/local/bin/httpd22
+root 16538 0.1 1.3 1453412 24824 ? Ssl 14:36 0:13 /var/packages/CloudSync/target/sbin/syno-cloud-syncd /volume1/@cloudsync/config/daemon.conf
+root 16643 0.0 0.1 354344 2444 ? Sroot 16817 0.0 0.1 275848 3432 ? Ss 14:37 0:00 /var/packages/NoteStation/target/tools/synonstodo --time_daemon op=restart
+Synolog+ 16873 0.0 0.1 23360 3600 ? Ss 14:37 0:00 /var/packages/SynologyApplicationService/target/daemon/pgbouncer -q /var/packages/SynologyApplicationService/target/etc/pgbouncer.ini
+root 16880 0.0 0.0 517532 1124 ? Ss 14:37 0:00 /var/packages/FileStation/target/sbin/thumbd
+root 16881 0.0 0.0 517532 1124 ? Ss 14:37 0:00 /var/packages/FileStation/target/sbin/thumbd
+root 16882 0.0 0.0 517532 1124 ? Ss 14:37 0:00 /var/packages/FileStation/target/sbin/thumbd
+root 16883 0.0 0.0 517532 1124 ? Ss 14:37 0:00 /var/packages/FileStation/target/sbin/thumbd
+root 16884 0.0 0.0 517532 1124 ? Ss 14:37 0:00 /var/packages/FileStation/target/sbin/thumbd
+root 16886 0.0 0.0 517532 1124 ? Ss 14:37 0:00 /var/packages/FileStation/target/sbin/thumbd
+root 16887 0.0 0.0 517532 1124 ? Ss 14:37 0:00 /var/packages/FileStation/target/sbin/thumbd
+root 16890 0.0 0.0 517532 1124 ? Ss 14:37 0:00 /var/packages/FileStation/target/sbin/thumbd
+root 16985 0.0 0.5 424372 11012 ? Ss 14:37 0:00 php-fpm: master process (/var/packages/WebStation/target/misc/php72_fpm.conf)
+root 17124 0.0 0.2 563188 3956 ? Ssl 14:37 0:00 /var/packages/Node.js_v12/target/usr/local/bin/node /var/packages/SynologyApplicationService/target/node_libs/VapidSendServer.js
+root 17287 0.0 0.5 496420 9592 ? Ssl 14:37 0:01 /var/packages/SynoFinder/target/sbin/synoelasticd
+root 17301 0.0 0.1 262936 2168 ? S 14:37 0:00 /usr/local/bin/session_watcher
+root 17302 0.0 0.1 508752 1880 ? Ssl 14:37 0:00 /usr/local/bin/session_watcher
+AudioSt+ 17452 0.2 0.4 615512 8892 ? Sroot 17456 0.0 0.2 638372 4672 ? SNsl 14:37 0:00 /var/packages/SynoFinder/target/sbin/fileindexd
+http 17664 0.0 0.2 482624 5088 ? Ssl 14:37 0:00 /var/packages/Mono/target/usr/local/bin/mono /var/packages/Mono/target/usr/local/lib/mono/4.5/mod-mono-server4.exe --filename /tmp/mod_mono_server_global --nonstop --master
+root 17685 0.0 0.0 160868 1792 ? Sroot 17712 0.0 0.4 2436472 8712 ? Ss 14:37 0:00 php-fpm: master process (/usr/syno/etc/packages/WebStation/php_profile/3d73fd48-1fdc-4213-9492-3d0893e6bc2e/fpm.conf)
+root 17720 0.0 0.4 362876 8804 ? Ss 14:37 0:00 php-fpm: master process (/usr/syno/etc/packages/WebStation/php_profile/22b82ca5-9cd5-45ad-babd-e5e028553264/fpm.conf)
+root 17726 0.0 0.4 432180 8640 ? Ss 14:37 0:00 php-fpm: master process (/usr/syno/etc/packages/WebStation/php_profile/358e7dc9-7993-4e78-a780-602b97ebc3f7/fpm.conf)
+root 17736 0.0 0.4 427124 8828 ? Ss 14:37 0:00 php-fpm: master process (/usr/syno/etc/packages/WebStation/php_profile/40e4d6cb-bf06-418d-90cd-57eb892f4be0/fpm.conf)
+http 17737 0.0 0.1 362876 2388 ? S 14:37 0:00 php-fpm: pool www
+http 17739 0.0 0.1 362876 2388 ? S 14:37 0:00 php-fpm: pool www
+http 17741 0.0 0.5 2437132 10196 ? S 14:37 0:00 php-fpm: pool www
+http 17742 0.0 0.4 2437132 9264 ? S 14:37 0:00 php-fpm: pool www
+http 17750 0.0 0.1 432180 2168 ? S 14:37 0:00 php-fpm: pool www
+http 17751 0.0 0.1 432180 2168 ? S 14:37 0:00 php-fpm: pool www
+http 17834 0.0 0.1 427124 2436 ? S 14:37 0:00 php-fpm: pool www
+http 17835 0.0 0.1 427124 2436 ? S 14:37 0:00 php-fpm: pool www
+http 17854 0.0 0.1 369796 2480 ? S 14:37 0:00 php-fpm: pool www
+http 17856 0.0 0.1 369796 2480 ? S 14:37 0:00 php-fpm: pool www
+http 17858 0.0 0.1 360452 2556 ? S 14:37 0:00 php-fpm: pool www
+http 17859 0.0 0.1 360452 2552 ? S 14:37 0:00 php-fpm: pool www
+http 17864 0.0 0.1 429824 2288 ? S 14:37 0:00 php-fpm: pool www
+http 17866 0.0 0.1 429824 2288 ? S 14:37 0:00 php-fpm: pool www
+http 17991 0.0 0.1 105860 2344 ? S 14:37 0:00 /var/packages/Apache2.2/target/usr/local/bin/httpd22
+http 17992 0.0 0.1 105860 1968 ? S 14:37 0:00 /var/packages/Apache2.2/target/usr/local/bin/fcgi-pm
+http 18247 0.0 0.7 1370224 13376 ? Sl 14:37 0:00 /var/packages/Apache2.2/target/usr/local/bin/httpd22
+root 18297 0.0 0.3 275536 6316 ? SNs 14:37 0:00 /var/packages/VideoStation/target/sbin/synovideoindexd
+AudioSt+ 18391 0.0 0.1 39704 2916 ? Sroot 18501 0.0 0.2 324220 3868 ? SNs 14:37 0:00 /var/packages/VideoStation/target/sbin/synovideometadatad
+root 18597 0.0 0.3 631016 5688 ? Ssl 14:37 0:00 /var/packages/VideoStation/target/sbin/synovpcd
+AudioSt+ 18622 0.0 0.2 23156 4040 ? Ss 14:37 0:00 /var/packages/AudioStation/target/sbin/pgbouncer -q /var/packages/AudioStation/target/etc/pgbouncer.ini
+root 18649 0.0 0.3 310960 6032 ? SNs 14:37 0:00 /var/packages/VideoStation/target/sbin/synovideoconversiond
+root 18700 0.0 0.3 260168 6280 ? SNs 14:37 0:00 /var/packages/VideoStation/target/sbin/synovideopreprocessd
+root 18724 0.0 0.5 342292 10584 ? Ss 14:37 0:00 /var/packages/Docker/target/usr/syno/bin/synoddsmd
+root 18785 0.0 0.1 82712 2108 ? Sl 14:37 0:00 /var/packages/Docker/target/termd/termd -d
+root 19457 0.0 0.1 325600 1952 ? Ssl 14:37 0:00 /var/packages/AntiVirus/target/bin/synoavd
+root 19458 0.0 0.1 66472 2544 ? SNs 14:37 0:00 /usr/syno/bin/photostationd
+root 19521 0.0 0.4 329720 8188 ? SNsl 14:37 0:00 /usr/syno/sbin/synocontentextractd
+root 19602 0.0 0.3 255988 6712 ? SNs 14:37 0:00 /usr/syno/sbin/synocontentextractd
+root 19603 0.0 0.3 255988 6724 ? SNs 14:37 0:00 /usr/syno/sbin/synocontentextractd
+root 19606 0.0 0.0 108752 668 ? Sl 14:37 0:00 containerd-shim -namespace moby -workdir /volume1/@docker/containerd/daemon/io.containerd.runtime.v1.linux/moby/df3d28ca5f4ee953c0d2ad78625d7e48ef5dd21b7155ee202217cd2840196b7a -address /var/run/docker/containerd/containerd.sock -containerd-binary /volume1/@appstore/Docker/usr/bin/containerd -runtime-root /var/run/docker/runtime-runc
+root 19607 0.0 0.2 378248 3940 ? SNsl 14:37 0:00 /var/packages/SynologyDrive/target/sbin/cloud-vmtouchd
+root 19643 0.1 0.1 47680 2380 ? Ssl 14:37 0:11 /var/packages/SynologyDrive/target/usr/bin/redis-server 127.0.0.1:0
+root 19672 0.0 0.3 593380 6592 ? Ssl 14:37 0:00 /var/packages/SynologyDrive/target/sbin/cloud-cached
+root 19742 0.0 0.2 877308 4332 ? SNsl 14:37 0:05 /var/packages/SynologyDrive/target/sbin/cloud-workerd
+Downloa+ 19746 0.1 0.5 314196 11216 ? Ss 14:37 0:08 /var/packages/DownloadStation/target/sbin/synodlscheduler
+postgres 19749 0.0 0.8 283940 16736 ? Ss 14:37 0:00 postgres: DownloadStation download [local] idle
+root 19760 0.0 0.0 285904 1688 ? Ss 14:37 0:00 /var/packages/SynologyDrive/target/sbin/cloud-authd
+root 19773 0.1 0.3 891664 5736 ? SNsl 14:37 0:11 /var/packages/SynologyDrive/target/sbin/syno-cloud-clientd
+root 19784 0.0 0.1 503596 2732 ? Ssl 14:37 0:00 synoscgi --mode apid --conf /var/packages/DownloadStation/target/etc/synodl-apid.json
+root 19786 0.0 0.0 429348 16 ? Ss 14:37 0:00 synoscgi --mode apid --conf /var/packages/DownloadStation/target/etc/synodl-apid.json
+root 19787 0.0 0.0 429348 16 ? Ss 14:37 0:00 synoscgi --mode apid --conf /var/packages/DownloadStation/target/etc/synodl-apid.json
+root 19790 0.0 0.3 329216 7064 ? Ssl 14:37 0:02 /var/packages/SynologyDrive/target/sbin/syncd
+root 19792 0.0 0.6 390028 11320 ? Sl 14:37 0:01 /var/packages/SynologyDrive/target/sbin/syncd
+root 19797 0.0 0.0 107344 824 ? Sl 14:37 0:00 containerd-shim -namespace moby -workdir /volume1/@docker/containerd/daemon/io.containerd.runtime.v1.linux/moby/d8c91f1e0981bb0b3213862037cf7d7c2ef094986675f42250af3d6eb4766360 -address /var/run/docker/containerd/containerd.sock -containerd-binary /volume1/@appstore/Docker/usr/bin/containerd -runtime-root /var/run/docker/runtime-runc
+root 19847 0.0 0.3 378720 6256 ? Sl 14:37 0:02 /var/packages/SynologyDrive/target/sbin/syncd
+postgres 19880 0.0 0.3 283740 6340 ? Ss 14:37 0:00 postgres: DownloadStation download [local] idle
+Downloa+ 19882 0.0 0.2 265152 4468 ? Ss 14:37 0:00 /var/packages/DownloadStation/target/sbin/synodldbrpcd
+root 19935 1.7 1.9 402072 36692 ? Ssl 14:37 2:24 /var/packages/DownloadStation/target/sbin/amuled -f -p /tmp/synodl_amuled.pid
+Downloa+ 19939 0.0 0.4 150484 7716 ? Ss 14:37 0:00 /var/packages/DownloadStation/target/sbin/synoamulecgid
+postgres 19956 0.0 0.4 281624 8424 ? Ss 14:37 0:00 postgres: DownloadStation download [local] idle
+root 20000 0.0 0.2 589960 5116 ? Ssl 14:37 0:01 synoscgi --mode=apid --conf=/var/packages/SynologyDrive/target/etc/synoapid.json
+root 20015 0.0 0.2 528872 5200 ? Ssl 14:37 0:02 /var/packages/SynologyDrive/target/sharesync/bin/cloud-daemon.exe /var/packages/SynologyDrive/etc/sharesync/daemon.conf
+root 20018 0.0 0.3 429688 7288 ? Ssl 14:37 0:00 /var/packages/SynologyDrive/target/sharesync/bin/cloud-monitor /var/packages/SynologyDrive/etc/sharesync/monitor.conf
+root 20029 0.0 0.6 311200 12228 ? Ssl 14:37 0:03 /var/packages/DownloadStation/target/sbin/transmissiond --pid-file /tmp/synodl_transmissiond.pid --log-error --logfile /var/services/download/transmissiond.log
+postgres 20049 0.0 0.1 283252 2084 ? Ss 14:37 0:00 postgres: postgres download [local] idle
+root 20362 0.0 0.8 355136 15140 ? Ss 14:37 0:00 /usr/bin/nmbd -F
+root 20434 0.0 0.0 25140 1848 ? S 14:37 0:00 avahi-daemon: running [DiskStaion.local]
+http 20440 0.0 0.3 33704 6056 ? S< 14:37 0:01 nginx: worker process
+http 20441 0.0 0.3 33704 5976 ? S< 14:37 0:01 nginx: worker process
+system 24267 0.0 0.1 264976 2112 ? S 15:14 0:00 synoscgi
+system 24269 0.0 0.1 264976 2088 ? S 15:14 0:00 synoscgi
+root 24406 0.0 0.6 150372 11548 ? Ss 15:14 0:00 /usr/bin/sshd
+root 24867 0.0 0.5 559460 10048 ? Ss 15:15 0:00 /usr/bin/upnpd
+root 31789 0.0 0.0 0 0 ? S 15:49 0:00 [kworker/u8:4]
+root 32524 0.0 0.0 0 0 ? S 15:52 0:00 [kworker/1:3]
